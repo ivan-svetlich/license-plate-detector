@@ -1,5 +1,5 @@
 # License Plate Detector
-Basic licence plate detector in real time using python and OpenCV. 
+Simple license plate detector in real time using python and OpenCV. 
 ## Tools
 * Python 3
 * OpenCV 2
