@@ -5,7 +5,7 @@ Simple license plate detector in real time using python and OpenCV.
 * OpenCV 2
 * pytesseract
 ## Description
-This licence plate detector uses a webcam as video source to find and read license plates from Argentina. 
+This license plate detector uses a webcam as video source to find and read license plates from Argentina. 
 
 ![screenshot](https://github.com/ivan-svetlich/license-plate-detector/blob/main/images/license_plate_detector.png)
 ## Process diagram
